@@ -3,7 +3,7 @@ public static void main (String[] args )
 {
 for(int i=0;i<=10;i++)
 {
-System.out.println("Hello Welcome to World ........this is chitti" +i);
+System.out.println("Hello Welcome to World ........this is test"+i);
 
 }
 }
